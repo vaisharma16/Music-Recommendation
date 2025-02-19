@@ -66,7 +66,3 @@ The recommendation system calculates distances between songs in a multi-dimensio
 recommend_songs([{'name': 'Song name from dataset', 'year':Year of song from dataset}], data)
 ```
 
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
