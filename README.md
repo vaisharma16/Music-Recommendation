@@ -63,7 +63,7 @@ The recommendation system calculates distances between songs in a multi-dimensio
 
 ### Example of Finding Recommendations:
 ```python
-recommend_songs([{'name': 'E-GIRLS ARE RUINING MY LIFE!', 'year':2020}], data)
+recommend_songs([{'name': 'Song name from dataset', 'year':Year of song from dataset}], data)
 ```
 
 
